@@ -1,6 +1,15 @@
+hello atguigu! hello git! 2222222222
 hello atguigu! hello git!
-hello atguigu! hello git!
-hello atguigu! hello git!
+zhong@xiaoxin MINGW64 /d/Git-Space/git-demo (master)
+$ git commit -m "first commit" hello.txt
+warning: in the working copy of 'hello.txt', LF will be replaced by CRLF the next time Git touches it
+[master (root-commit) f5ec157] first commit
+ 1 file changed, 17 insertions(+)
+ create mode 100644 hello.txt
+
+zhong@xiaoxin MINGW64 /d/Git-Space/git-demo (master)
+$
+hello atguigu! hello git!  2222222222
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
